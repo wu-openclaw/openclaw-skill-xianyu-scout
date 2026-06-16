@@ -1,7 +1,7 @@
 ---
 name: xianyu-scout
 description: "闲鱼跟单助手：搜品、比价、捡漏识别、自动生成商品描述，用 AI 帮你从闲鱼赚钱。"
-homepage: https://github.com/wu/xianyu-scout
+homepage: https://github.com/wu-openclaw/openclaw-skill-xianyu-scout
 metadata:
   {
     "openclaw":
